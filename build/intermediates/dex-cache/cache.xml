@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\maor.maor-pc\git\AroundMeAndroidStudio-master-final\AroundMe\libs\gcm.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c62336e408d6dc3998013f3a4419f1895ad61b6b">
+        <dex dex="C:\Users\maor.maor-pc\git\AroundMeAndroidStudio-master-final\AroundMe\build\intermediates\pre-dexed\debug\gcm-44c5c1d323e7b5b49a73729ccc2692831877810d.jar" />
+    </item>
+    <item
+        jar="C:\Users\maor.maor-pc\git\AroundMeAndroidStudio-master-final\AroundMe\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="C:\Users\maor.maor-pc\git\AroundMeAndroidStudio-master-final\AroundMe\build\intermediates\pre-dexed\debug\classes-e819960c9cf7e3ba8e325cc0bd84a127d4f4c2aa.jar" />
+    </item>
+    <item
+        jar="C:\Users\maor.maor-pc\git\AroundMeAndroidStudio-master-final\AroundMe\libs\google-api-client-1.18.0-rc.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="15feacc39aa29e06a63bf9041c6e5898f06bade9">
+        <dex dex="C:\Users\maor.maor-pc\git\AroundMeAndroidStudio-master-final\AroundMe\build\intermediates\pre-dexed\debug\google-api-client-1.18.0-rc-7c70b63ed8aed6ca24805f2ac0da4a3a0c4076ed.jar" />
+    </item>
+    <item
+        jar="C:\Users\maor.maor-pc\git\AroundMeAndroidStudio-master-final\AroundMe\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\maor.maor-pc\git\AroundMeAndroidStudio-master-final\AroundMe\build\intermediates\pre-dexed\debug\classes-8c433345c02cdc6f52d87e6ab5377b393d2c84d2.jar" />
+    </item>
+    <item
+        jar="C:\Users\maor.maor-pc\git\AroundMeAndroidStudio-master-final\AroundMe\libs\google-http-client-1.18.0-rc.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="041f593dcc111f46f32676e9f6856430f1294ddf">
+        <dex dex="C:\Users\maor.maor-pc\git\AroundMeAndroidStudio-master-final\AroundMe\build\intermediates\pre-dexed\debug\google-http-client-1.18.0-rc-92a0f08247024436d5f27b60e0a3504fbb99aedd.jar" />
+    </item>
+    <item
+        jar="C:\Users\maor.maor-pc\git\AroundMeAndroidStudio-master-final\AroundMe\libs\google-http-client-jackson2-1.18.0-rc.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="10eb3b8d9551a048ba3ec1b2a5ba7524cd01a45a">
+        <dex dex="C:\Users\maor.maor-pc\git\AroundMeAndroidStudio-master-final\AroundMe\build\intermediates\pre-dexed\debug\google-http-client-jackson2-1.18.0-rc-00c1cb8500578217f50344054dd652c3a51df65f.jar" />
+    </item>
+    <item
+        jar="C:\Users\maor.maor-pc\git\AroundMeAndroidStudio-master-final\AroundMe\libs\google-http-client-gson-1.18.0-rc.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1681d7019075f7217875b3a16c425582b476a75a">
+        <dex dex="C:\Users\maor.maor-pc\git\AroundMeAndroidStudio-master-final\AroundMe\build\intermediates\pre-dexed\debug\google-http-client-gson-1.18.0-rc-67064eee6de46f05572ececa659ed7e61b146fe9.jar" />
+    </item>
+    <item
+        jar="C:\Users\maor.maor-pc\git\AroundMeAndroidStudio-master-final\AroundMe\libs\jsr305-1.3.9.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
+        <dex dex="C:\Users\maor.maor-pc\git\AroundMeAndroidStudio-master-final\AroundMe\build\intermediates\pre-dexed\debug\jsr305-1.3.9-7dfbd93c561a1e5e870969893826addc6bd6d31a.jar" />
+    </item>
+    <item
+        jar="C:\Users\maor.maor-pc\git\AroundMeAndroidStudio-master-final\AroundMe\libs\gson-2.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2e66da15851f9f5b5079228f856c2f090ba98c38">
+        <dex dex="C:\Users\maor.maor-pc\git\AroundMeAndroidStudio-master-final\AroundMe\build\intermediates\pre-dexed\debug\gson-2.1-13054a05b0df22ed13ebf9323cd29a9a4eb56a29.jar" />
+    </item>
+    <item
+        jar="C:\Users\maor.maor-pc\git\AroundMeAndroidStudio-master-final\AroundMe\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\Users\maor.maor-pc\git\AroundMeAndroidStudio-master-final\AroundMe\build\intermediates\pre-dexed\debug\classes-50658489b62c8a13330d60d06edb307a069fbd2f.jar" />
+    </item>
+    <item
+        jar="C:\Users\maor.maor-pc\git\AroundMeAndroidStudio-master-final\AroundMe\libs\google-oauth-client-1.18.0-rc.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="84bb5a223e42a5ba974ad51c9712253e662aa1bb">
+        <dex dex="C:\Users\maor.maor-pc\git\AroundMeAndroidStudio-master-final\AroundMe\build\intermediates\pre-dexed\debug\google-oauth-client-1.18.0-rc-8dcd4d1e987e26e90f6ba7a46d551abe07be127f.jar" />
+    </item>
+    <item
+        jar="C:\Users\maor.maor-pc\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\maor.maor-pc\git\AroundMeAndroidStudio-master-final\AroundMe\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-f16f7e8712fa941c8c10f8663802c1a28ad19009.jar" />
+    </item>
+    <item
+        jar="C:\Users\maor.maor-pc\git\AroundMeAndroidStudio-master-final\AroundMe\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\maor.maor-pc\git\AroundMeAndroidStudio-master-final\AroundMe\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-0eda745d30b5850141a55d6894e31b4c9714af0c.jar" />
+    </item>
+    <item
+        jar="C:\Users\maor.maor-pc\git\AroundMeAndroidStudio-master-final\AroundMe\libs\google-http-client-jdo-1.18.0-rc.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e04b69acdd266c07a104ad8adfad87ae85b3e7fb">
+        <dex dex="C:\Users\maor.maor-pc\git\AroundMeAndroidStudio-master-final\AroundMe\build\intermediates\pre-dexed\debug\google-http-client-jdo-1.18.0-rc-b35571c19eb44d6b77d346b3d327a65c806794b2.jar" />
+    </item>
+    <item
+        jar="C:\Users\maor.maor-pc\git\AroundMeAndroidStudio-master-final\AroundMe\libs\jackson-core-2.1.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
+        <dex dex="C:\Users\maor.maor-pc\git\AroundMeAndroidStudio-master-final\AroundMe\build\intermediates\pre-dexed\debug\jackson-core-2.1.3-7cc6fe063f32574e92666380f5a4b5897c615402.jar" />
+    </item>
+    <item
+        jar="C:\Users\maor.maor-pc\git\AroundMeAndroidStudio-master-final\AroundMe\libs\google-http-client-android-1.18.0-rc.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d4c790c63bcdd9a34f6080c968c70d8af0f2cd2f">
+        <dex dex="C:\Users\maor.maor-pc\git\AroundMeAndroidStudio-master-final\AroundMe\build\intermediates\pre-dexed\debug\google-http-client-android-1.18.0-rc-fdbe3e89bbdf10f9aa75692926a2b2d4da6680e3.jar" />
+    </item>
+    <item
+        jar="C:\Users\maor.maor-pc\git\AroundMeAndroidStudio-master-final\AroundMe\libs\google-api-client-android-1.18.0-rc.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4f30a5725d24b30b35dfeb0278a29233904e19c1">
+        <dex dex="C:\Users\maor.maor-pc\git\AroundMeAndroidStudio-master-final\AroundMe\build\intermediates\pre-dexed\debug\google-api-client-android-1.18.0-rc-6629e7380102ff2d6c6dbdc71364b14e17b97634.jar" />
+    </item>
+
+</items>

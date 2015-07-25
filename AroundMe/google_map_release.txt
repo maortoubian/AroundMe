@@ -1,0 +1,5 @@
+release : C4:9B:5B:5B:FC:42:8E:FA:00:60:71:C3:6C:2F:6A:AA:A2:73:77:3B
+debug : 1A:0F:1D:A6:E5:1E:AE:D8:3D:19:F4:61:A6:25:74:06:15:82:5B:2D
+
+keytool.exe -list -v -alias aroundme -keystore "C:\Users\maor.maor-pc\Desktop\aroundmekey.jks" 
+-storepass mm016560 -keypass mm016560
